@@ -17,3 +17,7 @@ npx react-native init EmotionTracker --template react-native-template-typescript
 ## How to install Android Studio on Ubuntu
 
 <https://www.geeksforgeeks.org/how-to-install-android-studio-on-ubuntu/>
+
+## If you have some problems with starting android studio check second answer for this stack overflow problem
+
+<https://stackoverflow.com/questions/61922174/react-native-on-android-cannot-run-program-node-error-2-no-such-file-or-dir>
