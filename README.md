@@ -13,3 +13,7 @@ npx react-native init EmotionTracker --template react-native-template-typescript
 ## Next are begginer coure notes
 
 <https://kadikraman.github.io/react-native-v2/>
+
+## How to install Android Studio on Ubuntu
+
+<https://www.geeksforgeeks.org/how-to-install-android-studio-on-ubuntu/>
